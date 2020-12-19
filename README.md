@@ -11,7 +11,7 @@ My Languages
 <div align="left">
 		<img src="https://camo.githubusercontent.com/8381d28de2469b86f8c476ba3e0faff044654f691bb407223e8fb320027a13bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f64652d6a6176617363726970742d4637444631453f6c6f676f3d6a617661736372697074266c6f676f57696474683d3330266c6162656c436f6c6f723d626c61636b267374796c653d666f722d7468652d6261646765" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/code-javascript-F7DF1E?logo=javascript&amp;logoWidth=30&amp;labelColor=black&amp;style=for-the-badge" style="max-width:100%;">
 	</a>
-	&emsp;
+	
 		<img 
 		<img src="https://camo.githubusercontent.com/8899ae96b209ab62c9d30aa7c94ed8ab0454ca933f7da86a9c66d60120f9f3c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f64652d6325323070726f6772616d6d696e672d4138423943433f6c6f676f57696474683d3330266c6162656c436f6c6f723d626c61636b267374796c653d666f722d7468652d6261646765266c6f676f3d63" alt="C" data-canonical-src="https://img.shields.io/badge/code-c%20programming-A8B9CC?logoWidth=30&amp;labelColor=black&amp;style=for-the-badge&amp;logo=c" style="max-width:100%;">
 	</a>
