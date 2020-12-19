@@ -1,4 +1,6 @@
 
+Add me on discord:
+
 
 ### cruel#0101
 
