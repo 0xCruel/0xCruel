@@ -2,7 +2,7 @@
 Add me on discord:
 
 
-### cruel#0101
+### cruel#1337
 
 
 ![](https://komarev.com/ghpvc/?username=CruelSec&color=red)
