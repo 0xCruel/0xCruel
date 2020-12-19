@@ -14,8 +14,6 @@
 
 <img alt="Night Coding" src="https://im3.ezgif.com/tmp/ezgif-3-be6a31331da3.gif" align="right"/>
 
-<br />
-
 ### Tech Stuff: 
 
 <br />
