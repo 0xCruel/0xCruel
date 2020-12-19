@@ -2,6 +2,7 @@
 
 <a href="https://twitter.com/rootcruel">
   <img align="left" alt="rootcruel | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
 
 
 
